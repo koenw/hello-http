@@ -1,5 +1,7 @@
 # hello-http
 
+[![Build Status](https://travis-ci.org/koenw/hello-http.svg)](https://travis-ci.org/koenw/hello-http)
+
 Dockerized HTTP hello-world, for when you just need a placeholder to respond to
 HTTP requests.
 
